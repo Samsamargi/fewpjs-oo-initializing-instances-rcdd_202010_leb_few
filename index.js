@@ -16,7 +16,7 @@ class lunch{
   {
     this.salad=salad;
     this.soup=soup;
-    this.drink=drink;
+    this.drink=juice;
   }
 } 
 
@@ -24,7 +24,7 @@ class dinner{
   constructor(salad , soup , entree , _dessert)
   {
     this.salad=salad;
-    this.soup=soup;
+    this.soup=broccoli cheddar soup;
     this.entree=entree;
     this_dessert=dessert;}
   }
