@@ -16,16 +16,17 @@ class lunch{
   {
     this.salad=salad;
     this.soup=soup;
-    this.drink=juice;
+    this.drink='juice';
   }
 } 
 
 class dinner{
-  constructor(salad , soup , entree , _dessert)
+  constructor(salad , soup , entree , dessert)
   {
-    this.salad=salad;
-    this.soup=broccoli cheddar soup;
+    this.salad=salad ;
+    this.soup= 'broccoli'+'cheddar'+'soup' ;
     this.entree=entree;
-    this_dessert=dessert;}
+    this.dessert=dessert;
+    }
   }
 
